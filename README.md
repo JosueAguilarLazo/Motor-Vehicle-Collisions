@@ -39,7 +39,8 @@ nyc-collisions-analysis/
 
 ### Dashboard Preview
 
-<img width="1365" height="767" alt="Dashboard" src="https://github.com/user-attachments/assets/8c5d0d7c-954a-46d9-9ef8-217471fe0d27" />
+<img width="1365" height="767" alt="Dashboard" src="https://github.com/user-attachments/assets/25b70f4a-491e-48d3-bc4f-0eafebbedaa1" />
+
 
 >  **View the dashboard on Tableau Public**
  https://public.tableau.com/views/MotorVehicleCollisions_17790630612730/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
