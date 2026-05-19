@@ -13,10 +13,10 @@ nyc-collisions-analysis/
 ├── data/
 │   ├──MVC.xlsx                     # Raw data source with collision records
 ├── py/
-│   ├── 01_data_processing.ipnyb    # Python script that cleans data by standardization and null handling
+│   ├── 02_data_processing.ipnyb    # Python script that cleans data by standardization and null handling
 │   ├── 03_etl.ipynb                # Migrates Clean Data to SQL from python
 ├── sql/
-│   ├── 02_schema.sql               # Creates relational table structures in SQL
+│   ├── 01_schema.sql               # Creates relational table structures in SQL
 │   ├── 04_exploratory_analysis.sql # Executes advanced analytical queries
 │   └── 05_views_and_sps.sql        # Creates reusable views and stored procedures
 
