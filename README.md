@@ -47,7 +47,7 @@ nyc-collisions-analysis/
 
 
 >  **Dashboard Power BI Version**
-[Download .pbix File] https://github.com/JosueAguilarLazo/Motor-Vehicle-Collisions/blob/main/data/Motor%20Vehicle%20Collisions%20Risk%20Analysis.pbix
+https://github.com/JosueAguilarLazo/Motor-Vehicle-Collisions/blob/main/data/Motor%20Vehicle%20Collisions%20Risk%20Analysis.pbix
 ---
 
 ### 1. Crash Volume Trends
